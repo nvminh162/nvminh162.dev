@@ -6,7 +6,7 @@ const routes: RouteRecordRaw[] = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/nvminh162.dev/'),
   routes,
 })
 
