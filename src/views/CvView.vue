@@ -37,7 +37,7 @@ import CalendarIcon from '../components/Icons/CalendarIcon.vue'
                 </div>
               </li>
               <li>
-                <a href="mailto:hi@nvminh162@gmail.com"
+                <a href="mailto:nvminh162@gmail.com"
                   class="inline-flex items-center gap-2 underline-offset-2 transition-all hover:underline">
                   <AtSymbolIcon class="size-6" />
                   nvminh162@gmail.com
